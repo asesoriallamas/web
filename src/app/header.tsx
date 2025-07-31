@@ -68,10 +68,9 @@ export default function Header() {
     {[
       { href: '/', label: 'INICIO' },
       { href: '/nosotros', label: 'QUIÉNES SOMOS' },
-      { href: '#localizacion', label: 'LOCALIZACIÓN' },
-      { href: '#servicios', label: 'SERVICIOS' },
-      { href: '#horario', label: 'HORARIO' },
-      { href: '#contacto', label: 'CONTACTO' },
+      { href: '/localizacion', label: 'LOCALIZACIÓN' },
+      { href: '/servicios', label: 'SERVICIOS' },
+      { href: '/horario', label: 'HORARIO' },
     ].map(({ href, label }) => (
       <a
         key={href}
