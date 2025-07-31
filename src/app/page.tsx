@@ -15,7 +15,7 @@ export default function Home() {
         <div className="absolute inset-0 bg-black/45 z-0"/>
         {/*Contenido*/}
         <div className="relative z-10 px-4 h-100">
-          <h1 className="text-5xl md:text-6xl font-bold mb-4">Asesoría Llamas</h1>
+          <h1 className="text-5xl md:text-6xl font-bold mb-4">Asesoría Llamas prueba</h1>
           <p className="text-lg md:text-2xl">
         Tu asesoría de confianza en La Puebla de los Infantes
         </p>
