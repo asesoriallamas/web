@@ -36,7 +36,7 @@ export default function RootLayout({
           <h3 className="text-xl font-bold">¿Necesitas asesoramiento?</h3>
           <p>Contacta con nosotros y estaremos encantados de ayudarte.</p>
           <a
-            href="/cita"
+            href="/citas"
             className="inline-block bg-white text-lime-800 px-4 py-2 rounded hover:bg-gray-100 transition font-semibold"
           >
             Pedir cita

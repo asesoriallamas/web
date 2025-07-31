@@ -26,7 +26,7 @@ export default function Header() {
           <nav className="hidden md:flex flex-wrap gap-10 items-center text-xl font-medium text-gray-700 px-3 py-0">
             <Link href="/servicios" className="relative text-gray-700 hover:text-lime-800 transition duration-200 after:absolute after:left-0 after:-bottom-1 after:h-[2px] after:w-0 after:bg-lime-800 after:transition-all after:duration-300 hover:after:w-full">SERVICIOS</Link>
             <Link href="/horario" className="relative text-gray-700 hover:text-lime-800 transition duration-200 after:absolute after:left-0 after:-bottom-1 after:h-[2px] after:w-0 after:bg-lime-800 after:transition-all after:duration-300 hover:after:w-full">HORARIO</Link>
-            <Link href="#cita" className="bg-lime-800 text-white px-4 py-2 rounded hover:bg-blue-800 transition">
+            <Link href="/citas" className="bg-lime-800 text-white px-4 py-2 rounded hover:bg-blue-800 transition">
               Pedir cita
             </Link>
           </nav>
