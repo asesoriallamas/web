@@ -14,13 +14,13 @@ export default function NosotrosPage() {
 En <strong>Asesoría Llamas</strong>, llevamos más de dos décadas ofreciendo servicios integrales de asesoramiento fiscal, laboral, 
 contable y mercantil a particulares, autónomos, empresas y entidades de toda índole. 
 Nos encontramos en La Puebla de los Infantes (Sevilla), desde donde hemos construido una sólida reputación basada en la cercanía,
-la confianza y el compromiso con cada cliente a lo largo de toda nuestra historia (año de inicio de la oficina).
+la confianza y el compromiso con cada cliente a lo largo de toda nuestra historia desde nuestra apertura en 1993.
 Creemos firmemente que el asesoramiento no debe limitarse al cumplimiento de obligaciones legales o tributarias,
 sino que debe ser una herramienta estratégica que ayude a las personas y negocios a tomar mejores decisiones,
 optimizar sus recursos y planificar su futuro con seguridad. Por eso, nos implicamos de manera personalizada con cada caso,
 analizando, planificando y actuando con profesionalidad y responsabilidad.
 Contamos con un equipo humano especializado y en continua formación, capaz de adaptarse a los constantes cambios normativos y
-ofrecer soluciones actualizadas, claras y eficaces. En Asesoría Llamas apostamos por la transparencia, la ética profesional y el trato cercano como pilares fundamentales de nuestro trabajo.
+ofrecer soluciones actualizadas, claras y eficaces.<br/><br/> En Asesoría Llamas apostamos por la transparencia, la ética profesional y el trato cercano como pilares fundamentales de nuestro trabajo.
 Nuestra misión es ayudarte a cumplir con tus obligaciones y a crecer con tranquilidad,
 sabiendo que estás respaldado por profesionales que te escuchan y te acompañan en cada paso. 
 Ya sea para gestionar tus impuestos, llevar tu contabilidad, resolver un problema laboral o planificar una operación societaria,

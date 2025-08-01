@@ -54,9 +54,11 @@ export default function Home() {
         <div className="w-full md:w-2/3 text-center md:text-left">
           <h2 className="text-3xl font-bold mb-4 text-[#4b6e00]">José Manuel Llamas</h2>
           <p className="text-lg text-gray-700 leading-relaxed">
-            Soy <strong>Jose Manuel Llamas</strong>, asesor fiscal, laboral y contable con más de 10 años de experiencia ayudando a autónomos, empresas y particulares a cumplir con sus obligaciones y optimizar su situación.
-            <br /><br />
-            Mi compromiso es ofrecer un servicio cercano, claro y adaptado a tus necesidades desde <strong>La Puebla de los Infantes</strong>.
+            Hola, soy <strong>José Manuel Llamas Castellano</strong>, dirijo una Asesoría Fiscal, laboral y Contable,
+             y además contamos con Seguros Generali  y asuntos inmobiliarios, desde hace mas de 30 años.    
+  “Para servir, servir.” <br/>
+  En <strong>Asesoría Llamas</strong> creemos que el verdadero valor está en la atención cercana, eficaz y comprometida con nuestros clientes. 
+  Estamos aquí para <strong>ayudarte</strong>, siempre.
           </p>
         </div>
       </div>

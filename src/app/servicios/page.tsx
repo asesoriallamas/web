@@ -1,11 +1,13 @@
-import { Briefcase, Users, FileText,Car, Home, Landmark,Shield } from "lucide-react"
+import { Briefcase, Users, FileText,Car, Home, Landmark,Shield, Handshake } from "lucide-react"
 
 export default function serviciosPage(){
     return(
         <main>
     <section id="servicios" className="py-16 px-6 bg-gradient-to-b from-white to-gray-100">
-  <h2 className="text-3xl font-bold text-center mb-12 z-10">Nuestros Servicios</h2>
-
+   <div className="flex items-center justify-center gap-3 mb-12 z-10">
+    <Handshake className="w-8 h-8 text-lime-800" />
+    <h2 className="text-4xl font-bold text-lime-800 text-center">Nuestros Servicios</h2>
+  </div>
   <div className="space-y-6 max-w-4xl mx-auto">
     {/* Servicio 1 */}
     <div className="flex items-start gap-6 bg-gray-50 p-6 rounded-lg shadow-md hover:shadow-lg transition">
@@ -75,7 +77,7 @@ export default function serviciosPage(){
     <div className="flex items-start gap-6 bg-gray-50 p-6 rounded-lg shadow-md hover:shadow-lg transition">
       <Home className="w-12 h-12 text-lime-800 shrink-0" />
       <div>
-        <h3 className="text-xl font-semibold mb-1">Corretaje y Trámites Inmobiliarios</h3>
+        <h3 className="text-xl font-semibold mb-1">Portal Inmobiliario</h3>
         <p className="text-gray-600 text-sm">
           Gestión de compraventa, tramitación de herencias, cálculo de plusvalía y acompañamiento notarial.
         </p>
