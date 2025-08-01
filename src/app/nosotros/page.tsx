@@ -11,7 +11,7 @@ export default function NosotrosPage() {
         <div className="md:w-[70%] w-full space-y-4 text-justify leading-relaxed">
           <h1 className="text-4xl font-bold text-lime-800">Quiénes Somos</h1>
           <p className="text-lg text-gray-600">
-En <strong>Asesoría Llamas</strong>, llevamos más de dos décadas ofreciendo servicios integrales de asesoramiento fiscal, laboral, 
+En <strong>Asesoría Llamas</strong>, llevamos más de tres décadas ofreciendo servicios integrales de asesoramiento fiscal, laboral, 
 contable y mercantil a particulares, autónomos, empresas y entidades de toda índole. 
 Nos encontramos en La Puebla de los Infantes (Sevilla), desde donde hemos construido una sólida reputación basada en la cercanía,
 la confianza y el compromiso con cada cliente a lo largo de toda nuestra historia desde nuestra apertura en 1993.
