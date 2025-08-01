@@ -81,7 +81,7 @@ export default function Header() {
       </a>
     ))}
     <a
-      href="/cita"
+      href='/cita'
       className="mt-2 inline-block bg-lime-800 text-white px-4 py-2 rounded text-center hover:bg-lime-700 transition"
     >
       Pedir cita

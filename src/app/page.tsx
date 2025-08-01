@@ -26,7 +26,7 @@ export default function Home() {
         Ver servicios
       </a>
       <a
-        href="#cita"
+        href="/cita"
         className="inline-block border border-white px-10 rounded py-3 hover:bg-white hover:text-lime-800 transition"
       >
         Pedir cita
