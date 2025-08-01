@@ -13,8 +13,8 @@ export default function NosotrosPage() {
           <p className="text-lg text-gray-600">
 En <strong>Asesoría Llamas</strong>, llevamos más de dos décadas ofreciendo servicios integrales de asesoramiento fiscal, laboral, 
 contable y mercantil a particulares, autónomos, empresas y entidades de toda índole. 
-Nuestra sede se encuentra en La Puebla de los Infantes (Sevilla), desde donde hemos construido una sólida reputación basada en la cercanía,
-la confianza y el compromiso con cada cliente.
+Nos encontramos en La Puebla de los Infantes (Sevilla), desde donde hemos construido una sólida reputación basada en la cercanía,
+la confianza y el compromiso con cada cliente a lo largo de toda nuestra historia (año de inicio de la oficina).
 Creemos firmemente que el asesoramiento no debe limitarse al cumplimiento de obligaciones legales o tributarias,
 sino que debe ser una herramienta estratégica que ayude a las personas y negocios a tomar mejores decisiones,
 optimizar sus recursos y planificar su futuro con seguridad. Por eso, nos implicamos de manera personalizada con cada caso,

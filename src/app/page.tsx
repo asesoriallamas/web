@@ -1,6 +1,5 @@
 'use client';
 import Image from "next/image";
-import Link from "next/link";
 
 export default function Home() {
   return (
@@ -61,6 +60,11 @@ export default function Home() {
           </p>
         </div>
       </div>
+    </section>
+        {/*Apartado de servicios de inicio*/}
+    <section>
+
+
     </section>
     </main>
   );
