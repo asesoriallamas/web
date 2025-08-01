@@ -33,7 +33,7 @@ export default function Home() {
       </a>
       </div>
       <p className="text-lg md">Especialistas en asesoramiento fiscal, laboral y contable para autónomos, empresas y particulares. 
-        Más de 20 años ofreciendo soluciones personalizadas.</p>
+        Más de 30 años ofreciendo soluciones personalizadas.</p>
         </div>
         </section>
         {/*Apartado sobre Jose Manuel Llamas*/}
