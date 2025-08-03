@@ -18,7 +18,7 @@ export default function Header() {
           </nav>
 
           {/* Logo */}
-          <a href="/" className="h-40 py-0">
+          <a href="/" className="h-30 py-0 md:h-40">
             <img src="/logo.png" alt="Logo Asesoría Llamas" className="h-full w-auto object-contain px-4" />
           </a>
 
@@ -75,7 +75,8 @@ export default function Header() {
       <a
         key={href}
         href={href}
-        className="relative hover:text-lime-800 transition after:absolute after:left-0 after:-bottom-1 after:h-[2px] after:w-0 after:bg-lime-800 after:transition-all hover:after:w-full"
+        className="relative hover:text-lime-800 transition after:absolute after:left-0 after:-bottom-1 
+        after:h-[2px] after:w-0 after:bg-lime-800 after:transition-all hover:after:w-full"
       >
         {label}
       </a>
