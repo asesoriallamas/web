@@ -1,6 +1,6 @@
 'use client';
 import Image from "next/image";
-
+import ServiciosCarrusel from "@/components/serviciosCarrusel";
 export default function Home() {
   return (
     <main className="min-h-screen">
@@ -63,11 +63,8 @@ export default function Home() {
         </div>
       </div>
     </section>
-        {/*Apartado de servicios de inicio*/}
-    <section>
-
-
-    </section>
+    {/*Carrusel de servicios*/}
+    <ServiciosCarrusel/>
     </main>
   );
 }
