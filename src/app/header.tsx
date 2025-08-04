@@ -1,6 +1,7 @@
 'use client';
 
-import { Mail,Phone } from "lucide-react";
+import { Mail,Phone} from "lucide-react";
+import { FaWhatsapp } from 'react-icons/fa';
 import { useState } from "react";
 import Link from "next/link";
 
@@ -98,6 +99,10 @@ export default function Header() {
           <div className="flex items-center gap-2">
             <Mail className="text-lime-800 w-5 h-5" />
             <a href="mailto:asesoria@asesoriallamas.com" className="hover:text-lime-800">asesoria@asesoriallamas.com</a>
+          </div>
+          <div className="flex items-center gap-2">
+            <FaWhatsapp className="text-lime-800 w-5 h-5"/>
+            <a href="https://wa.me/34609040289" className="hover:text-lime-800">609 04 02 89</a>
           </div>
         </div>
       </header>
