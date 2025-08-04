@@ -32,7 +32,6 @@ export default function ServiciosCarrusel() {
     <section className="py-16 px-4 sm:px-6 bg-white">
       <div className="flex flex-col items-center gap-6">
         <div className="flex items-center gap-3">
-          <Handshake className="w-7 h-7 text-lime-800" />
           <h2 className="text-3xl font-bold text-lime-800 text-center">Nuestros Servicios</h2>
         </div>
 
