@@ -1,4 +1,10 @@
-'use client';
+// Metadatos SEO
+export const metadata = {
+  title: "Asesoría Llamas",
+  description:
+    "Tu asesoría de confianza en La Puebla de los Infantes. Especialistas en asesoramiento fiscal, laboral y contable para autónomos, empresas y particulares. Más de 30 años ofreciendo soluciones personalizadas.",
+};
+
 import Image from "next/image";
 import ServiciosCarrusel from "@/components/serviciosCarrusel";
 export default function Home() {

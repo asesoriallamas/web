@@ -1,3 +1,11 @@
+// Metadatos SEO
+export const metadata = {
+  title: "Localización | Asesoría Llamas",
+  description:
+    "Descubre dónde visitarnos para brindarte el mejor servicio.",
+};
+
+
 import { MapPin } from "lucide-react"
 
 export default function localizacion(){

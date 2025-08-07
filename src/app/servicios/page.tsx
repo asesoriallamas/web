@@ -1,3 +1,10 @@
+// Metadatos SEO
+export const metadata = {
+  title: "Nuestros Servicios | Asesoría Llamas",
+  description:
+    "Descubre nuestros servicios de asesoría fiscal, laboral, contable, seguros, tráfico, herencias y mucho más en La Puebla de los Infantes. Atención profesional y cercana.",
+};
+
 import { Briefcase, Users, FileText,Car, Home, Landmark,Shield, Handshake } from "lucide-react"
 
 export default function serviciosPage(){

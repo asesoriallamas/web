@@ -1,4 +1,10 @@
-'use client';
+// Metadatos SEO
+export const metadata = {
+  title: "Quiénes somos | Asesoría Llamas",
+  description:
+    "Descubre nuestra historia y mucho más. Atención profesional y cercana.",
+};
+
 import Image from "next/image";
 
 export default function NosotrosPage() {

@@ -1,3 +1,9 @@
+// Metadatos SEO
+export const metadata = {
+  title: "Horario | Asesoría Llamas",
+  description:"Consulta nuestro horario y visitanos."}
+
+
 import { Clock } from "lucide-react";
 
 export default function Horario() {

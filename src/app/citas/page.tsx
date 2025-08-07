@@ -1,3 +1,11 @@
+// Metadatos SEO
+export const metadata = {
+  title: "Pedir cita | Asesoría Llamas",
+  description:
+    "Pide cita para poder asesorarte y disfrutar de nuestros servicios.",
+};
+
+
 import { CalendarIcon } from "lucide-react";
 
 export default function Citas() {

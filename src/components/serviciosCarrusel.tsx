@@ -1,3 +1,5 @@
+'use client'
+
 import Link from "next/link";
 import { Briefcase, Users, FileText, Car, Home, Landmark, Shield, Handshake } from "lucide-react";
 import { useState } from "react";
