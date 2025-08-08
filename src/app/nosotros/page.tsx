@@ -17,20 +17,12 @@ export default function NosotrosPage() {
         <div className="md:w-[70%] w-full space-y-4 text-justify leading-relaxed">
           <h1 className="text-4xl font-bold text-lime-800">Quiénes Somos</h1>
           <p className="text-lg text-gray-600">
-En <strong>Asesoría Llamas</strong>, llevamos más de tres décadas ofreciendo servicios integrales de asesoramiento fiscal, laboral, 
-contable y mercantil a particulares, autónomos, empresas y entidades de toda índole. 
-Nos encontramos en La Puebla de los Infantes (Sevilla), desde donde hemos construido una sólida reputación basada en la cercanía,
-la confianza y el compromiso con cada cliente a lo largo de toda nuestra historia desde nuestra apertura en 1993.
-Creemos firmemente que el asesoramiento no debe limitarse al cumplimiento de obligaciones legales o tributarias,
-sino que debe ser una herramienta estratégica que ayude a las personas y negocios a tomar mejores decisiones,
-optimizar sus recursos y planificar su futuro con seguridad. Por eso, nos implicamos de manera personalizada con cada caso,
-analizando, planificando y actuando con profesionalidad y responsabilidad.
-Contamos con un equipo humano especializado y en continua formación, capaz de adaptarse a los constantes cambios normativos y
-ofrecer soluciones actualizadas, claras y eficaces.<br/><br/> En Asesoría Llamas apostamos por la transparencia, la ética profesional y el trato cercano como pilares fundamentales de nuestro trabajo.
-Nuestra misión es ayudarte a cumplir con tus obligaciones y a crecer con tranquilidad,
-sabiendo que estás respaldado por profesionales que te escuchan y te acompañan en cada paso. 
-Ya sea para gestionar tus impuestos, llevar tu contabilidad, resolver un problema laboral o planificar una operación societaria,
-en Asesoría Llamas estarás siempre en buenas manos.
+Creada en el 1996, la inquietud de su fundador <strong>José Manuel Llamas Castellano</strong>, entendió que debía de dar salida a las necesidades de sus vecinos que se quejaban de un servicio integral 360º. Se comenzó por ir implementando poco a poco nuevos servicios y colaboraciones, de las cuales está muy agradecido. El motor principal de <strong>Asesoría Llamas</strong> ha sido el inconformismo con hacer las cosas siempre igual, mejorando
+ y creciendo con las nuevas tecnologías que a veces tan tediosas son, pero que al mismo tiempo tan necesarias y a su vez, sacándoles el máximo rendimiento a cada aplicación.
+Hemos pasado de la inexcusable presencialidad al teletrabajo en poco tiempo y por ello debemos de aprovechar esta ventaja como oportunidad que nos ofrece la tecnología para abrirnos a más clientes y crecer juntos.
+Estamos muy entusiasmados con esta época que nos ha tocado vivir, a pesar de los pesares, pues entendemos que la tecnología no aleja al cliente de la Asesoría, sino que lo acerca.
+Creemos que estamos en el camino correcto con la digitalización de nuestro despacho, pues como dijo otro asesor, <strong>"o te digitalizas o te digitalizan"</strong>. El rumbo está marcado y no tiene vuelta atrás y por ello queremos contar con clientes tecnológicamente avanzados para compartir y crecer juntos.
+Entiendo que somos una buena opción si estás buscando un servicio integral y cercano.
           </p>
         </div>
 
