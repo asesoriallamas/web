@@ -1,6 +1,6 @@
 'use client';
 
-import { Mail,Phone} from "lucide-react";
+import { Mail,Phone, Instagram} from "lucide-react";
 import { FaWhatsapp } from 'react-icons/fa';
 import { useState } from "react";
 import Link from "next/link";
@@ -90,7 +90,7 @@ export default function Header() {
     </a>
   </nav>
 </div>
-        {/* Teléfono y correo (siempre visible) */}
+        {/* Contacto*/}
         <div className="flex flex-wrap items-center gap-4 text-lg px-4 py-0 font-medium text-gray-700">
           <div className="flex items-center gap-2">
             <Phone className="text-lime-800 w-5 h-5"/>
@@ -103,6 +103,10 @@ export default function Header() {
           <div className="flex items-center gap-2">
             <FaWhatsapp className="text-lime-800 w-5 h-5"/>
             <a href="https://wa.me/34609040289" className="hover:text-lime-800">609 04 02 89</a>
+          </div>
+          <div className="flex items-center gap-2">
+            <Instagram className="text-lime-800 w-5 h-5"/>
+            <a href="https://www.instagram.com/asesoriallamas" className="hover:text-lime-800">@asesoriallamas</a>
           </div>
         </div>
       </header>

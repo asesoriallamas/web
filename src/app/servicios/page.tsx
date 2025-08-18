@@ -88,6 +88,14 @@ export default function serviciosPage(){
         <p className="text-gray-600 text-sm">
           Gestión de compraventa, tramitación de herencias, cálculo de plusvalía y acompañamiento notarial.
         </p>
+         <a
+      href="https://www.instagram.com/asesoriallamas"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="text-sm text-lime-800 font-medium hover:underline"
+    >
+      Visitar disponibilidad en Instagram →
+    </a>
       </div>
     </div>
     
