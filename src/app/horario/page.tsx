@@ -41,11 +41,11 @@ export default function Horario() {
                 </tr>
                 <tr className="border-b">
                   <td className="py-3 px-4 font-medium">Sábado</td>
-                  <td className="py-3 px-4">Cerrado</td>
+                  <td className="py-3 px-4">Cerrado - Pedir Cita</td>
                 </tr>
                 <tr>
                   <td className="py-3 px-4 font-medium">Domingo</td>
-                  <td className="py-3 px-4">Cerrado</td>
+                  <td className="py-3 px-4">Cerrado - Pedir Cita</td>
                 </tr>
               </tbody>
             </table>
