@@ -21,23 +21,23 @@ export default function Horario() {
               <tbody>
                 <tr className="border-b">
                   <td className="py-3 px-4 font-medium">Lunes</td>
-                  <td className="py-3 px-4">9:30 - 14:00</td>
+                  <td className="py-3 px-4">9:30 - 13:00 y 17:00 - 20:00</td>
                 </tr>
                 <tr className="border-b">
                   <td className="py-3 px-4 font-medium">Martes</td>
-                  <td className="py-3 px-4">9:30 - 14:00</td>
+                  <td className="py-3 px-4">9:30 - 13:00 y 17:00 - 20:00</td>
                 </tr>
                 <tr className="border-b">
                   <td className="py-3 px-4 font-medium">Miércoles</td>
-                  <td className="py-3 px-4">9:30 - 14:00</td>
+                  <td className="py-3 px-4">9:30 - 13:00 y 17:00 - 20:00</td>
                 </tr>
                 <tr className="border-b">
                   <td className="py-3 px-4 font-medium">Jueves</td>
-                  <td className="py-3 px-4">9:30 - 14:00</td>
+                  <td className="py-3 px-4">9:30 - 13:00 y 17:00 - 20:00</td>
                 </tr>
                 <tr className="border-b">
                   <td className="py-3 px-4 font-medium">Viernes</td>
-                  <td className="py-3 px-4">9:30 - 14:00</td>
+                  <td className="py-3 px-4">9:30 - 13:00 y 17:00 - 20:00</td>
                 </tr>
                 <tr className="border-b">
                   <td className="py-3 px-4 font-medium">Sábado</td>
